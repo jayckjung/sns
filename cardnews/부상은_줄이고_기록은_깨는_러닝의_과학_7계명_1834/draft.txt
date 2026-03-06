@@ -1,0 +1,54 @@
+# 데이터로 보는 초보 러너를 위한 핵심 가이드 5
+
+러닝은 진입 장벽이 낮은 운동이지만, 부상 없이 지속적인 성장을 위해서는 데이터에 기반한 전략이 필요합니다. 스포츠 의학 연구와 통계적 사실을 바탕으로, 초보 러너가 반드시 인지해야 할 5가지 핵심 원칙을 정리했습니다.
+
+1. 케이던스 5% 증가의 효과
+
+현재 본인의 케이던스(분당 발자국 수)를 5~10% 높여서 달리는 것만으로도 무릎 관절에 가해지는 부하를 최대 20%까지 줄일 수 있습니다.
+
+2. 180이라는 숫자에 대한 오해
+
+무조건 '180 케이던스'를 맞추려 노력하기보다, 현재 리듬에서 보폭을 살짝 줄여 발을 조금 더 빠르게 구르는 것이 부상 예방에 효율적입니다.
+
+3. 부상을 막는 10% 룰
+
+주당 주행 거리나 운동 강도는 전주 대비 10% 이상 급격히 늘리지 않아야 합니다.
+
+4. 급성/만성 업무 부하 비율(ACWR) 관리
+
+이 '10% 룰'은 스포츠 의학에서 통용되는 급성/만성 업무 부하 비율(ACWR) 관리의 기초로, 신체가 운동 부하에 적응할 시간을 부여합니다.
+
+5. 지구력 향상을 위한 80/20 법칙
+
+전체 훈련의 80%는 옆 사람과 대화가 가능한 수준(Talk Test 통과, 심박수 Zone 2)의 저강도로 수행해야 합니다.
+
+6. 고강도 훈련의 전략적 제한
+
+숨이 찰 정도의 고강도 훈련은 전체의 20%로 제한할 때, 장기적인 지구력 및 수행 능력 향상에 가장 효과적이라는 연구 결과가 있습니다.
+
+7. 러닝과 근력 운동의 병행 효과
+
+러닝 훈련과 별도로 웨이트 트레이닝 등 근력 운동(Strength Training)을 병행할 경우, 과사용으로 인한 스포츠 부상 위험을 약 50% 가까이 줄일 수 있습니다.
+
+8. 러너가 스쿼트를 해야 하는 이유
+
+강화된 근육은 착지 시 발생하는 충격을 흡수하고 관절을 지지하여, 러닝만 지속했을 때 발생할 수 있는 불균형을 예방합니다.
+
+9. 러닝화 교체 주기: 500~800km
+
+러닝화는 겉모습이나 밑창(Outsole)의 마모 상태와 상관없이 약 500~800km(300~500마일) 주행 시 교체를 권장합니다.
+
+10. 중창(Midsole)의 수명
+
+충격 흡수의 핵심 역할을 하는 EVA 폼 등의 중창 소재는 반복된 하중으로 인해 이미 압축되어 기능이 저하되었을 가능성이 높기 때문입니다.
+
+---
+
+**References:**
+*   *Schubert, A. G., et al. (2014). Influence of Stride Frequency and Length on Running Mechanics.*
+*   *Gabbett, T. J. (2016). The training—injury prevention paradox: should athletes be training smarter and harder?*
+*   *Seiler, S. (2010). What is best practice for training intensity and duration distribution in endurance athletes?*
+*   *Lauersen, J. B., et al. (2014). The effectiveness of exercise interventions to prevent sports injuries.*
+*   *Cook, S. D., et al. (1985). Shock absorption characteristics of running shoes.*
+
+#스트라이드코치 #러닝 #런 #달리기 #런린이
